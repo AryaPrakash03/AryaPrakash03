@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently doing BTech CSE(3nd Year) from <br>      Greater Noida Institute of Technology (GGSIPU).<br>👯 I’m looking to explore opportunities in the tech industry.<br>🤝 I’m looking for help with the web development stuff.<br>🌱 I’m currently learning Javascript, CSS, HTML5.<br>💬 Ask me about anything<br>⚡ Fun fact- I love NETFLIX
+🔭 I’m currently doing BTech CSE(3rd Year) from <br>      Greater Noida Institute of Technology (GGSIPU).<br>👯 I’m looking to explore opportunities in the tech industry.<br>🤝 I’m looking for help with the web development stuff.<br>🌱 I’m currently learning Javascript, CSS, HTML5.<br>💬 Ask me about anything<br>⚡ Fun fact- I love NETFLIX
 
 
 ## 🌐 Socials:
