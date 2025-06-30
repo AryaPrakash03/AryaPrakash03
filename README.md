@@ -1,5 +1,28 @@
 # 💫 About Me:
-🔭 I’m currently doing BTech CSE(4th Year) from <br>      Greater Noida Institute of Technology (GGSIPU).<br>👯 I’m looking to explore opportunities in the tech industry.<br>🤝 I’m looking for help with the web development stuff.<br>🌱 💬 Ask me about anything<br>⚡ Fun fact- I love NETFLIX
+
+I'm a final-year B.Tech student deeply passionate about Artificial Intelligence and its real-world applications.
+
+From medical diagnostics to workplace safety, I've been actively building Al systems that solve critical problems using deep learning and computer vision.
+
+My key projects include:
+
+• NeuroCare Al: An MRI-based brain tumor detection and classification system using the VGG16 model.
+
+SafeEye: A real-time drowsiness and distraction detection system for workplace monitoring, integrating OpenCV, face detection, and smart alert systems.
+
+Skills & Tech Stack:
+
+Python, TensorFlow, Keras, OpenCV, scikit-learn
+
+Deep Learning (CNNs), Transfer Learning, Image Classificati
+
+Django, Flask, Javascript, HTML/CSS
+
+Tools: Git, Google Colab, PyCharm, VS Code
+
+I'm now focused on refining my Al/ML and software development skills. I'm always eager to collaborate on meaningful tech projects that blend intelligence with impact.
+
+Let's connect if you're into Al, research, or building products that make a difference!
 
 
 ## 🌐 Socials:
